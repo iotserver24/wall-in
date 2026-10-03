@@ -1,0 +1,12 @@
+**/target/
+/references/rainmeter/
+**/node_modules/
+**/dist/
+__pycache__/
+*.pyc
+*.tsbuildinfo
+/tests/generated/
+/artifacts/
+/.wall-in-test-data/
+*.log
+/apps/desktop/.impeccable-detection.json

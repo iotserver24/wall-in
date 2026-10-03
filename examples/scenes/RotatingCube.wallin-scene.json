@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "camera": { "fov": 55, "distance": 4.5 },
+  "cube": {
+    "size": 1.8,
+    "rpm": 12,
+    "colors": ["#d9ec7f", "#86bce6", "#ac91e9", "#ea9a9a", "#d4b888", "#70c9ad"]
+  },
+  "background": "#101b25"
+}

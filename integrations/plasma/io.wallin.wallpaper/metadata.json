@@ -1,0 +1,10 @@
+{
+  "KPackageStructure": "Plasma/Wallpaper",
+  "KPlugin": {
+    "Id": "io.wallin.wallpaper",
+    "Name": "Wall-in Local Media (Experimental)",
+    "Description": "Local image/video wallpaper with persistent playback, fit, and audio settings",
+    "Version": "0.1.0",
+    "Authors": [{"Name": "R3AP3R Editz"}]
+  }
+}

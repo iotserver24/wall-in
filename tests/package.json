@@ -1,0 +1,10 @@
+{
+  "name": "wall-in-integration-tests",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "browser": "node browser.mjs",
+    "browser:playback": "node playback-browser.mjs"
+  },
+  "devDependencies": { "playwright": "^1.58.0" }
+}

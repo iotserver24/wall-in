@@ -1,0 +1,7 @@
+{
+  "uuid": "wall-in@r3ap3r",
+  "name": "Wall-in Background Bridge",
+  "description": "Places authenticated Wall-in renderer surfaces in GNOME Shell background actors, not the normal window stack.",
+  "shell-version": ["50"],
+  "version": 1
+}

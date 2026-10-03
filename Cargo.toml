@@ -1,0 +1,14 @@
+[workspace]
+members = ["crates/core", "crates/rainmeter"]
+resolver = "2"
+
+[package]
+name = "wall-in"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+
+[dependencies]
+wall-in-core = { path = "crates/core" }
+tokio = { version = "1", features = ["full"] }
+clap = { version = "4", features = ["derive"] }
